@@ -1,2 +1,4 @@
 # Practica-1-INF-121-
-Practica General
+# RENZO MARCELO ESPINOZA MAMANI
+# CI : 11105829
+# RU : 1855830
