@@ -1,6 +1,7 @@
 package Cochepoo;
 
 public class Coche{
+    // Atributos
     private String marca;
     private String modelo;
     private int velocidad;
@@ -9,9 +10,11 @@ public class Coche{
         this.modelo = modelo;
         this.velocidad = velocidad;
     }
+    // Metodo para acelerar el coche
     public void acelerar(){
         velocidad += 10;
     }
+    // Metodo para frenar el coche
     public void frenar(){
         velocidad -= 5;
         if(velocidad < 0){
