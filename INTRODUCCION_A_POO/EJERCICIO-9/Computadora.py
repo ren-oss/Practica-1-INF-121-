@@ -29,3 +29,15 @@ class Computadora:
             print("La computadora se ha apagado.")
         else:
             print("La computadora ya está apagada.")
+            
+# Crear una instancia de la computadora
+mi_pc = Computadora("Intel Core i7", 16, 512, "NVIDIA GTX 1660")
+
+mi_pc.mostrar_componentes()
+mi_pc.estado()
+
+mi_pc.encender()
+mi_pc.estado()
+
+mi_pc.apagar()
+mi_pc.estado()

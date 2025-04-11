@@ -1,7 +1,7 @@
-package Cochepoo;
+package CocheJava;
 
-public class Coche{
-    // Atributos
+public class Coche {
+	 // Atributos
     private String marca;
     private String modelo;
     private int velocidad;
