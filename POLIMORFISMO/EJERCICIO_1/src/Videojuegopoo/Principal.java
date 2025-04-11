@@ -1,6 +1,7 @@
 package Videojuegopoo;
 
 public class Principal {
+    
 	public static void main(String[] args) {
         // a) Instanciar al menos 2 videojuegos
         Videojuego juego1 = new Videojuego("The Legend of Zelda", "Nintendo Switch");
